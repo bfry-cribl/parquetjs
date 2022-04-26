@@ -19,7 +19,7 @@
     "gen-nodejs"
   ],
   "dependencies": {
-    "bson-ext": "^2.0.5",
+    "bson": "^4.6.3",
     "int53": "^1.0.0",
     "snappy": "^7.1.1",
     "thrift": "0.13.0-hotfix.1",
